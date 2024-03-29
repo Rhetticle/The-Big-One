@@ -3,7 +3,7 @@
 ![image0 (6)](https://github.com/TheZ0/The-Big-One/assets/142558812/33357cc0-8e7c-4cac-852c-9c4e36e9c266)
 
 
-3D printed 3-stage 1kJ bolt-action projectile accelerator. My most ambitious project thus far, one year start to finish, three interconnected PCBs and over 3kg of PLA filament. 
+3D printed 3-stage 1kJ bolt-action projectile accelerator. One year start to finish, three interconnected PCBs and over 3kg of PLA filament. 
 
 ## Safety Notice
 Please do not attempt to build what is shown in this repository or similar unless you have experience working with high voltage (>50V) systems. The voltages used within this device are lethal.
