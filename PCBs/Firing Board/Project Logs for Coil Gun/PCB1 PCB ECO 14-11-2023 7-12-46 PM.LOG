@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=400VDC Pin=D3-1
+Removed Pin From Net: NetName=400VDC Pin=D3-3
+Removed Pin From Net: NetName=400VDC Pin=D5-1
+Removed Pin From Net: NetName=400VDC Pin=D5-3
+Removed Pin From Net: NetName=GND Pin=DS2-2
+Removed Pin From Net: NetName=GND Pin=DS3-2
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Change Component Footprint: Designator=J4 Old Footprint=FP-B2P-VH-FB-B_LF_SN-MFG New Footprint=FP-B02P-VL_LF_SN-MFG
+Change Component Comment : Designator=J4 Old Comment=B2P-VH-FB-B(LF)(SN) New Comment=Cap Conn
+Change Managed Component Library Link : Designator=J4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=292E7AF8-1762-4723-B980-D3BE97E63193 New ItemGUID=58FAC221-91B8-4A04-A475-2CDE528764DE Old RevisionGUID=2756B31C-38ED-49A3-AF4C-4328C2B2A100 New RevisionGUID=5C7F7EFA-E7E3-47D8-91A0-290E00D44697
+Change component parameters: Designator = "J4" ("J4"); Footprint = "FP-B2P-VH-FB-B_LF_SN-MFG"; UniqueID = "\JJXZOIYJ" ("\JJXZOIYJ")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "20A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "6.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "VL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Added Pin To Net: NetName=C1+ Pin=J4-1
+Add Class Member: Failed to add class member : Component C1 asas
+Added Member To Class: ClassName=Single_Stage Member=Component J4 Cap Conn

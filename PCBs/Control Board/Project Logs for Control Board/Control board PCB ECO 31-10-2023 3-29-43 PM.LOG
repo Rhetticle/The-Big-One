@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J2 Old Footprint=FP-PH1RB-04-UA-MFG New Footprint=FP-PH1RB-04-UA-MFG
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ5_2

@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=400VDC Pin=D3-1
+Removed Pin From Net: NetName=400VDC Pin=D3-3
+Removed Pin From Net: NetName=400VDC Pin=D5-1
+Removed Pin From Net: NetName=400VDC Pin=D5-3
+Removed Pin From Net: NetName=GND Pin=DS2-2
+Removed Pin From Net: NetName=GND Pin=DS3-2
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Member From Class: ClassName=Single_Stage Member=D3
+Removed Member From Class: ClassName=Single_Stage Member=D4
+Removed Member From Class: ClassName=Single_Stage Member=D5
+Removed Member From Class: ClassName=Single_Stage Member=D6
+Removed Member From Class: ClassName=Single_Stage Member=DS2
+Removed Member From Class: ClassName=Single_Stage Member=DS3
+Removed Member From Class: ClassName=Single_Stage Member=J4
+Removed Member From Class: ClassName=Single_Stage Member=J5
+Removed Member From Class: ClassName=Single_Stage Member=J6
+Removed Member From Class: ClassName=Single_Stage Member=J7
+Removed Member From Class: ClassName=Single_Stage Member=J8
+Removed Member From Class: ClassName=Single_Stage Member=J9
+Removed Member From Class: ClassName=Single_Stage Member=Q2
+Removed Member From Class: ClassName=Single_Stage Member=Q3
+Removed Member From Class: ClassName=Single_Stage Member=R1
+Removed Member From Class: ClassName=Single_Stage Member=R5
+Removed Member From Class: ClassName=Single_Stage Member=R6
+Removed Member From Class: ClassName=Single_Stage Member=R7
+Removed Member From Class: ClassName=Single_Stage Member=R8
+Removed Member From Class: ClassName=Single_Stage Member=R9
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Class Member: Failed to add class member : Component C1 asas

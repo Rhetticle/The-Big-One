@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=SW2 Old Footprint=418117270901 New Footprint=418117270901
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=SW2-2
+Add Net: Net with name "BOOT0" already exists
+Add Net: Net with name "NRST" already exists

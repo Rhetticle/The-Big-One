@@ -1,0 +1,75 @@
+Change Component Footprint: Designator=J3 Old Footprint=FP-B02P-VL_LF_SN-MFG New Footprint=FP-B2P-VH-FB-B_LF_SN-MFG
+Change Component Footprint: Designator=J6 Old Footprint=FP-B02P-VL_LF_SN-MFG New Footprint=FP-B2P-VH-FB-B_LF_SN-MFG
+Change Component Footprint: Designator=J9 Old Footprint=FP-B02P-VL_LF_SN-MFG New Footprint=FP-B2P-VH-FB-B_LF_SN-MFG
+Change Component Comment : Designator=J3 Old Comment=B02P-VL (LF)(SN) New Comment=B2P-VH-FB-B(LF)(SN)
+Change Component Comment : Designator=J6 Old Comment=B02P-VL (LF)(SN) New Comment=B2P-VH-FB-B(LF)(SN)
+Change Component Comment : Designator=J9 Old Comment=B02P-VL (LF)(SN) New Comment=B2P-VH-FB-B(LF)(SN)
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=58FAC221-91B8-4A04-A475-2CDE528764DE New ItemGUID=292E7AF8-1762-4723-B980-D3BE97E63193 Old RevisionGUID=5C7F7EFA-E7E3-47D8-91A0-290E00D44697 New RevisionGUID=2756B31C-38ED-49A3-AF4C-4328C2B2A100
+Change Managed Component Library Link : Designator=J6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=58FAC221-91B8-4A04-A475-2CDE528764DE New ItemGUID=292E7AF8-1762-4723-B980-D3BE97E63193 Old RevisionGUID=5C7F7EFA-E7E3-47D8-91A0-290E00D44697 New RevisionGUID=2756B31C-38ED-49A3-AF4C-4328C2B2A100
+Change Managed Component Library Link : Designator=J9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=58FAC221-91B8-4A04-A475-2CDE528764DE New ItemGUID=292E7AF8-1762-4723-B980-D3BE97E63193 Old RevisionGUID=5C7F7EFA-E7E3-47D8-91A0-290E00D44697 New RevisionGUID=2756B31C-38ED-49A3-AF4C-4328C2B2A100
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-B02P-VL_LF_SN-MFG"; UniqueID = "\YVWLSMWZ" ("\YVWLSMWZ")
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Ramp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.156inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "VH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "FP-B02P-VL_LF_SN-MFG"; UniqueID = "\OKAKSYMD" ("\OKAKSYMD")
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Ramp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.156inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "VH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "FP-B02P-VL_LF_SN-MFG"; UniqueID = "\OLMQGFMW" ("\OLMQGFMW")
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Ramp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.156inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "VH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Class Member: Failed to add class member : Component C1 asas
+Add Class Member: Failed to add class member : Component C2 asas
+Add Class Member: Failed to add class member : Component C3 asas
+Added Member To Class: ClassName=Single_Stage Member=Component DS1 Coil 3
+Added Member To Class: ClassName=Single_Stage Member=Component DS2 Coil 3
+Added Member To Class: ClassName=Single_Stage Member=Component DS3 Coil 3
+Added Member To Class: ClassName=Single_Stage Member=Component R1 10
+Added Member To Class: ClassName=Single_Stage Member=Component R2 10
+Added Member To Class: ClassName=Single_Stage Member=Component R3 400
+Added Member To Class: ClassName=Single_Stage Member=Component R4 10k
+Added Member To Class: ClassName=Single_Stage Member=Component R5 400
+Added Member To Class: ClassName=Single_Stage Member=Component R6 10k
+Added Member To Class: ClassName=Single_Stage Member=Component R7 10
+Added Member To Class: ClassName=Single_Stage Member=Component R8 400
+Added Member To Class: ClassName=Single_Stage Member=Component R9 10k

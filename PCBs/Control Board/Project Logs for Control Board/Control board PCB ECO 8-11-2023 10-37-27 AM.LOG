@@ -1,0 +1,9 @@
+Added Component: Designator=J8(CONN_B2PS-VH_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B2PS-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_2 Pin=J8-1
+Added Pin To Net: NetName=NetD1_2 Pin=J8-2
+Added Member To Class: ClassName=Control board Member=Component J8 B2PS-VH(LF)(SN)

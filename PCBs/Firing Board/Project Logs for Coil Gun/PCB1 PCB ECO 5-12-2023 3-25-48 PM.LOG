@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=400VDC-1
+Removed Pin From Net: NetName=400VDC Pin=400VDC-2
+Change Component Designator: OldDesignator=400VDC NewDesignator=J2
+Change Component Designator: OldDesignator=SIG NewDesignator=J4
+Added Component: Designator=J5(FP-D_S2B-EH_LF_SN-MFG)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Added Pin To Net: NetName=400VDC Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Add Class Member: Failed to add class member : Component C1 asas
+Added Member To Class: ClassName=Single_Stage Member=Component J5 (D)S2B-EH (LF)(SN)

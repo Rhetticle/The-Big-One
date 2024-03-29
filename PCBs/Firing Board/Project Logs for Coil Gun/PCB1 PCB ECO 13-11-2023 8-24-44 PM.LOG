@@ -1,0 +1,18 @@
+Added Component: Designator=J10(CONN_B2PS-VH_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B2PS-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Added Pin To Net: NetName=400VDC Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Add Class Member: Failed to add class member : Component C1 asas
+Add Class Member: Failed to add class member : Component C2 asas
+Add Class Member: Failed to add class member : Component C3 asas
+Added Member To Class: ClassName=Single_Stage Member=Component J10 B2PS-VH(LF)(SN)

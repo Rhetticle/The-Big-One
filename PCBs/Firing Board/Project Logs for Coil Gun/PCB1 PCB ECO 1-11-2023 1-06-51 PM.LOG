@@ -1,0 +1,9 @@
+Added Component: Designator=L1(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-
+Added Pin To Net: NetName=NetC1_2 Pin=L1-
+Added Pin To Net: NetName=NetD2_2 Pin=L1-
+Added Pin To Net: NetName=NetD2_2 Pin=L1-
+Add Class Member: Failed to add class member : Component C1 asas
+Added Member To Class: ClassName=Single_Stage Member=Component L1 Component_1

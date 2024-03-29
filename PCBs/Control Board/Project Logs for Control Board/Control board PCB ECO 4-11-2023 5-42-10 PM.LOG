@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=CONN_D-_P
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=CONN_D+_N
+Add Differential Pair: Number of nets in differential pair CONN_D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CONN_D- is 1 instead of 2

@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=Sig1 Pin=R2-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R2-2
+Change Component Designator: OldDesignator= NewDesignator=DS4
+Change Component Designator: OldDesignator=400VDC NewDesignator=J2
+Change Component Designator: OldDesignator=COIL NewDesignator=J3
+Change Component Designator: OldDesignator=SIG NewDesignator=J4
+Change Component Designator: OldDesignator=SNB NewDesignator=J1
+Added Component: Designator=R1(FP-CRCW2512-e3-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "6432"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.001429oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.15mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Added Pin To Net: NetName=Sig1 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Add Class Member: Failed to add class member : Component C1 asas
+Added Member To Class: ClassName=Single_Stage Member=Component D1 MURHD560T4G
+Added Member To Class: ClassName=Single_Stage Member=Component D2 GI756-E3/54
+Added Member To Class: ClassName=Single_Stage Member=Component DS1 Coil 3
+Added Member To Class: ClassName=Single_Stage Member=Component DS4 Coil 3
+Added Member To Class: ClassName=Single_Stage Member=Component J1 B2P-VH-FB-B(LF)(SN)
+Added Member To Class: ClassName=Single_Stage Member=Component J2 (D)S2B-EH (LF)(SN)
+Added Member To Class: ClassName=Single_Stage Member=Component J3 B2P-VH-FB-B(LF)(SN)
+Added Member To Class: ClassName=Single_Stage Member=Component J4 (D)S2B-EH (LF)(SN)
+Added Member To Class: ClassName=Single_Stage Member=Component Q1 SGW30N60HS
+Added Member To Class: ClassName=Single_Stage Member=Component R1 10
+Added Member To Class: ClassName=Single_Stage Member=Component R3 400
+Added Member To Class: ClassName=Single_Stage Member=Component R4 10k
+Added Member To Class: ClassName=Single_Stage Member=Component R10 400

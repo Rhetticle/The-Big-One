@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+12V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Member From Class: ClassName=Control board Member=J1
+Change Component Designator: OldDesignator=Coil 1 NewDesignator=J11
+Change Component Designator: OldDesignator=Coil 2 NewDesignator=J10
+Change Component Designator: OldDesignator=Coil 3 NewDesignator=J9
+Added Component: Designator=J?(CONN_B2PS-VH_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B2PS-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=+12V Pin=J?-2
+Added Member To Class: ClassName=Control board Member=Component J? B2PS-VH(LF)(SN)
+Added Member To Class: ClassName=Control board Member=Component U6 TC4420VPA

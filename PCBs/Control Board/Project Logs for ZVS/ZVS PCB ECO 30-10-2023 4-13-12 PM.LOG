@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES_AC05_VIS New Footprint=RES_AC05_VIS
+Change Component Footprint: Designator=R2 Old Footprint=RES_AC05_VIS New Footprint=RES_AC05_VIS
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component L1 Inductor
+Add Class Member: Failed to add class member : Component L2 Inductor
+Add Class Member: Failed to add class member : Component L3 Inductor

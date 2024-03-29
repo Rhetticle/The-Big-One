@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BOOT0 Pin=U1-60
+Added Pin To Net: NetName=NetC21_1 Pin=U1-7
+Added Pin To Net: NetName=NetLabel9 Pin=U1-60
+Change Net Name : Old Net Name=BOOT0 New Net Name=+12V
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NRST
+Change Net Name : Old Net Name=NetLabel9 New Net Name=BOOT0

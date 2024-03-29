@@ -1,0 +1,13 @@
+Added Component: Designator=U8(SOT23-6L_STM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ6_2 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetJ6_3 Pin=U8-3
+Added Pin To Net: NetName=NetU1_45 Pin=U8-4
+Added Pin To Net: NetName=NetJ6_1 Pin=U8-5
+Added Pin To Net: NetName=NetU1_44 Pin=U8-6
+Added Member To Class: ClassName=Control Board 2 Member=Component U8 USBLC6-2SC6
