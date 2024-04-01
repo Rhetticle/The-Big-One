@@ -16,8 +16,8 @@ Please do not attempt to build what is shown in this repository or similar unles
 ### Capacitor Charger
 Capacitors were charged using a ZVS circuit driving a homemade step-up transformer (see below) to increase the 30VAC across the resonant capacitors of the ZVS up to 550VAC to be used to charge the high voltage capacitors. 
 
-<img src="https://github.com/TheZ0/The-Big-One/assets/142558812/5bb98cbe-304d-47cf-9782-3a394f745221" width="450" height="600">
-<img src="https://github.com/TheZ0/The-Big-One/assets/142558812/faace633-92bd-4457-8ac8-14c990e99ffc" width="450" height="600">
+<img src="https://github.com/TheZ0/The-Big-One/assets/142558812/5bb98cbe-304d-47cf-9782-3a394f745221" width="400" height="600">
+<img src="https://github.com/TheZ0/The-Big-One/assets/142558812/faace633-92bd-4457-8ac8-14c990e99ffc" width="400" height="600">
 
 ### Control Board
 The control board was mounted in the middle section. It uses an STM32F401RBT6 to control the timing of the three acceleration stages as well as measures the capacitor bank voltage. Four schottky diodes are also on the board to rectify the transformer output.
