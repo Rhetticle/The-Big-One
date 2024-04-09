@@ -13,6 +13,9 @@ Please do not attempt to build what is shown in this repository or similar unles
 * Efficiency - 1.4%
 
 ## Hardware Details
+
+### Capacitors
+The Big One uses three 4.5mF 400V chassis mount capacitors. The total energy in these capacitors at max operating voltage (385V) is approximately 1kJ. 
 ### Capacitor Charger
 Capacitors were charged using a ZVS circuit driving a homemade step-up transformer (see below) to increase the 30VAC across the resonant capacitors of the ZVS up to 550VAC to be used to charge the high voltage capacitors. 
 
