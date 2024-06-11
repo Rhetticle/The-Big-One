@@ -17,7 +17,7 @@ All circuitry and PCBs were custom made, designed in Kicad and manufactured by J
 ### Capacitors
 The Big One uses three 4.5mF 400V chassis mount capacitors. The total energy in these capacitors at max operating voltage (385V) is approximately 1kJ. 
 ### Capacitor Charger
-Capacitors were charged using a ZVS circuit driving a homemade step-up transformer (see below) to increase the 30VAC across the resonant capacitors of the ZVS up to 550VAC to be used to charge the high voltage capacitors. The average power output of this charger was around 300W when charging the entire bank of capacitors. 
+Capacitors were charged using a ZVS circuit driving a homemade step-up transformer (see below) to increase the 30VAC across the resonant capacitors of the ZVS up to 550VAC to be used to charge the high voltage capacitors. The average power output of this charger was around 300W when charging the entire bank of capacitors from 0V to 385V. 
 
 <img src="https://github.com/TheZ0/The-Big-One/assets/142558812/5bb98cbe-304d-47cf-9782-3a394f745221" width="400" height="600">
 <img src="https://github.com/TheZ0/The-Big-One/assets/142558812/faace633-92bd-4457-8ac8-14c990e99ffc" width="400" height="600">
