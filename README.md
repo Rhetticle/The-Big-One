@@ -13,7 +13,7 @@ Please do not attempt to build what is shown in this repository or similar unles
 * Efficiency - 1.4%
 
 ## Hardware Details
-All circuitry and PCBs we're custom made, designed in Kicad and manufactured by JLCPCB with hardware provided by Digikey
+All circuitry and PCBs were custom made, designed in Kicad and manufactured by JLCPCB with hardware provided by Digikey
 ### Capacitors
 The Big One uses three 4.5mF 400V chassis mount capacitors. The total energy in these capacitors at max operating voltage (385V) is approximately 1kJ. 
 ### Capacitor Charger
