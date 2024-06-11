@@ -3,7 +3,7 @@
 ![image0 (6)](https://github.com/TheZ0/The-Big-One/assets/142558812/33357cc0-8e7c-4cac-852c-9c4e36e9c266)
 
 
-3D printed 3-stage 1kJ bolt-action projectile accelerator.
+3D printed 3-stage 1kJ projectile accelerator.
 
 ## Safety Notice
 Please do not attempt to build what is shown in this repository or similar unless you have experience working with high voltage (>50V) systems. The voltages used within this device are lethal.
@@ -13,7 +13,7 @@ Please do not attempt to build what is shown in this repository or similar unles
 * Efficiency - 1.4%
 
 ## Hardware Details
-
+All circuitry and PCBs we're custom made, designed in Kicad and manufactured by JLCPCB with hardware provided by Digikey
 ### Capacitors
 The Big One uses three 4.5mF 400V chassis mount capacitors. The total energy in these capacitors at max operating voltage (385V) is approximately 1kJ. 
 ### Capacitor Charger
