@@ -8,8 +8,7 @@
 ## Update
 As of Febuary 2024, this device is no longer operational and has been salvaged for parts.
 ## Safety Notice
-* Please do not attempt to build what is shown in this repository or similar unless you have experience working with high voltage (>50V) systems. The voltages used within this device are lethal.
-* This device was build purely to challenge myself with a complex project to learn about electronics and is not intended to be used as a weapon
+* This device was build purely to challenge myself with a complex engineering project to learn about electronics and is not intended to be used as a weapon
 * Certain parts of the build have been omitted from the repository to prevent those with malicious intent from replicating this device
 ## Performance
 * Peak exit velocity (All capacitors charged to 385V) - 61 km/h
