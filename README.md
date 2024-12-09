@@ -2,6 +2,7 @@
 
 ![image0 (6)](https://github.com/TheZ0/The-Big-One/assets/142558812/33357cc0-8e7c-4cac-852c-9c4e36e9c266)
 
+https://github.com/user-attachments/assets/869daa6d-89cc-4672-a1f7-7d603dca1637
 
 3D printed 3-stage 1kJ projectile accelerator.
 
